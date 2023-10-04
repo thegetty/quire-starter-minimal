@@ -1,7 +1,7 @@
 ---
 epub: false
-title: Catalogue
+title: "Catalogue"
 layout: table-of-contents
 presentation: grid
-order: 100
+order: 15
 ---
