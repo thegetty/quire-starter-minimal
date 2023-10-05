@@ -1,9 +1,9 @@
 object_display_order:
   - artist
-  - date
+  - year
   - dimensions
   - medium
-  - culture
+  - location
   - object number
 
 object_list:
@@ -11,10 +11,10 @@ object_list:
   - id: ""
     title: ""
     artist: ""
-    date: ""
+    year: ""
     medium: ""
     dimensions: "" 
-    culture: ""
+    location: ""
     object number: ""
     link: ""
     figure:
