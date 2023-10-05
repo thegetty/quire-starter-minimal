@@ -7,4 +7,17 @@ figure_list:
     credit: "Place your credit here"
     alt: "Add a visual description here."
 
-  
+  - id: ""
+    label: ""
+    src: ""
+    caption: ""
+    credit: ""
+    alt: ""
+ 
+  - id: ""
+    label: ""
+    src: ""
+    caption: ""
+    credit: ""
+    alt: ""
+ 
