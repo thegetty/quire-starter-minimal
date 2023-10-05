@@ -1,10 +1,10 @@
 figure_list:
 
-  - id: ""
-    label: ""
-    src: ""
-    caption: ""
-    credit: ""
-    alt: ""
+  - id: "fig-1"
+    label: "Fig. 1"
+    src: "figures/fig-1.jpg"
+    caption: "Place your caption here."
+    credit: "Place your credit here"
+    alt: "Add a visual description here."
 
   
