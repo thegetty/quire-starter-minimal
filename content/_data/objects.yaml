@@ -7,14 +7,14 @@ object_display_order:
 
 object_list:
 
-  - id: 
-    title: 
-    artist: 
-    year:
-    medium: 
-    dimensions: 
-    location: 
-    link: 
+  - id: ""
+    title: ""
+    artist: ""
+    year: ""
+    medium: ""
+    dimensions: "" 
+    location: ""
+    link: ""
     figure:
       - id: ""
 
