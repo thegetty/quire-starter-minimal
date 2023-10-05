@@ -6,7 +6,7 @@ outputs:
   - html
 ---
 
-This is a [starter theme](https://github.com/thegetty/quire-starter-default) for [Quire](http://quire.getty.edu), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+This is a [starter theme](https://github.com/thegetty/quire-starter-minimal) for [Quire](http://quire.getty.edu), a multiformat digital publishing framework. Quire can be used to generate a website, a downloadable PDF and e-book, or event a print book; all from a single set of text files. 
 
 This starter theme allows for the quick customization of a few key styles to make you publication project your own.
 
