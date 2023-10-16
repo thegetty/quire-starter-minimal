@@ -4,7 +4,7 @@ object_display_order:
   - dimensions
   - medium
   - location
-  - object number
+  - object_number
 
 object_list:
 
@@ -15,7 +15,7 @@ object_list:
     medium: ""
     dimensions: "" 
     location: ""
-    object number: ""
+    object_number: ""
     link: ""
     figure:
       - id: ""
